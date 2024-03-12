@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/DeepSORT/deep_sort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FairMOT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FairMOT/DCNv2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mmtracking" vcs="Git" />
+  </component>
+</project>
